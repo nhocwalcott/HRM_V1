@@ -1,5 +1,6 @@
-<!DOCTYPE html>
 
+<!DOCTYPE html>
+//Do Nguyet Ạnh
 <html lang="{{ app()->getLocale() }}">
     <!--<![endif]-->
     <!-- BEGIN HEAD -->
